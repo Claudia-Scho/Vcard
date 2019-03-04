@@ -1,4 +1,7 @@
 #VCARD EXERCISE
 
-## INFO SOURCES
+## SCREENSHOT BELOW
+
+![alt text](/home/claudia/Desktop/Becode_Projects/Vcard/Pictures/Screenshot Vcard.png)
+
 
