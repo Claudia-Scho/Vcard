@@ -2,6 +2,6 @@
 
 ## SCREENSHOT BELOW
 
-![alt text](/home/claudia/Desktop/Becode_Projects/Vcard/Pictures/Screenshot Vcard.png)
+![alt text](https://raw.githubusercontent.com/Claudia-Scho/Vcard/master/Pictures/Screenshot%20Vcard.png)
 
 
